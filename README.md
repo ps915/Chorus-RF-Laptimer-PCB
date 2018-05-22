@@ -5,6 +5,10 @@ https://github.com/voroshkov/Chorus-RF-Laptimer
 
 <img src="https://raw.githubusercontent.com/ps915/Chorus-RF-Laptimer-PCB/master/p3.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/Chorus-RF-Laptimer-PCB/master/p1.JPG" width="350">
 
+# Changelog
+### [ALL RELEASES](https://github.com/ps915/Chorus-RF-Laptimer-PCB/releases) 
+### 22.05.2018 - v3.1 released [DOWNLOAD](https://github.com/ps915/Chorus-RF-Laptimer-PCB/files/2025616/chorus_4in1_3.1_gerber_file.zip)
+* inital release
 # What do you need
 
 * 1x 4in1 PCB
@@ -33,3 +37,14 @@ https://github.com/voroshkov/Chorus-RF-Laptimer
 
 # Software
 https://github.com/voroshkov/Chorus-RF-Laptimer
+
+# Ordering PCB
+you can order the PCB in china:
+1. Go to [www.seeedstudio.com](https://www.seeedstudio.com/fusion_pcb.html#utm_source=seidel-philipp.de&utm_medium=banner)
+2. Upload gerber file
+3. choose PCB color
+3. add to cart
+4. order
+
+Details Tutorial how to order from seeedstudio [here](https://blog.seidel-philipp.de/do-it-yourself-pagoda-fpv-antenna-for-less-than-2/)
+
