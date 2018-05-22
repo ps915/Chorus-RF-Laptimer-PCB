@@ -8,6 +8,17 @@ https://github.com/voroshkov/Chorus-RF-Laptimer
 
 https://www.youtube.com/watch?v=avLRJ5z0UP4
 
+# Features
+* PCB for 4 Nodes (4 Pilots)
+* easy extendable via JST XH cable (8 Pilots)
+* 5V stepdown for Arduinos
+* adjustable stepdown for RX Modules (use 3.5V to keep temperature low)
+* 92 x 92mm mounting holes
+* XT60 PowerIn
+* 5V USB PowerIn (if you want to use a powerbank)
+* stacked hardware - can be changed in seconds
+* Buzzer Port to connect one Buzzer per Node
+
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/Chorus-RF-Laptimer-PCB/releases) 
 ### 22.05.2018 - v3.1 beta released [DOWNLOAD](https://github.com/ps915/Chorus-RF-Laptimer-PCB/files/2025616/chorus_4in1_3.1_gerber_file.zip)
