@@ -46,5 +46,5 @@ you can order the PCB in china:
 3. add to cart
 4. order
 
-Details Tutorial how to order from seeedstudio [here](https://blog.seidel-philipp.de/do-it-yourself-pagoda-fpv-antenna-for-less-than-2/)
+Detaild Tutorial how to order from seeedstudio [here](https://blog.seidel-philipp.de/do-it-yourself-pagoda-fpv-antenna-for-less-than-2/)
 
