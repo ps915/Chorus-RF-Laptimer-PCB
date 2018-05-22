@@ -14,7 +14,11 @@ https://www.youtube.com/watch?v=avLRJ5z0UP4
 * inital release
 * i did not tested this PCB. To V3.0 i just added the Diodes and did cleaned it up a bit. V3.0 worked so far. Please report any issues!
 
-# What do you need
+# Up to 4 nodes
+You can also just use one or two nodes. All you haveto do is bridge TX/RX (see on silkscreen) of the other nodes
+Always use at least "Node1" because the voltage measurement is connected to this node.
+
+# What do you need (4 nodes)
 * 1x 4in1 PCB
 * 4x [Arduino Pro Mini](https://www.banggood.com/Wholesale-New-Ver-Pro-Mini-ATMEGA328-328p-5V-16MHz-Arduino-Compatible-Nano-Size-p-68534.html?p=3R26141006882201412N)
 * 4x [RX5808 (with SPI mod)](https://www.banggood.com/FPV-5_8G-Wireless-Audio-Video-Receiving-Module-RX5808-p-84775.html?p=3R26141006882201412N)
