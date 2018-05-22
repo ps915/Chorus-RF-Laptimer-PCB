@@ -14,9 +14,17 @@ https://www.youtube.com/watch?v=avLRJ5z0UP4
 * inital release
 * i did not tested this PCB. To V3.0 i just added the Diodes and did cleaned it up a bit. V3.0 worked so far. Please report any issues!
 
-# Up to 4 nodes
+# Important
+#### up to 4 nodes
 You can also just use one or two nodes. All you haveto do is bridge TX/RX (see on silkscreen) of the other nodes
 Always use at least "Node1" because the voltage measurement is connected to this node.
+#### 5V power via USB
+if ypou want to power the 4in via 5V USB, please remove stepdown "Arduino" and bridge IN and OUT.
+#### connect 2 or more PCBS
+If you plan to connect more PCBS together, please alsways set the Loopback Jumper to the first PCB (left)
+Then connect the next PCB via 6Pin wire. 
+On the first PCB, bridge MV. On following PCBs please bridge GM
+<img src="https://raw.githubusercontent.com/ps915/Chorus-RF-Laptimer-PCB/master/p5.jpg">
 
 # What do you need (4 nodes)
 * 1x 4in1 PCB
