@@ -19,11 +19,10 @@ https://www.youtube.com/watch?v=avLRJ5z0UP4
 You can also just use one or two nodes. All you haveto do is bridge TX/RX (see on silkscreen) of the other nodes
 Always use at least "Node1" because the voltage measurement is connected to this node.
 #### 5V power via USB
-if ypou want to power the 4in via 5V USB, please remove stepdown "Arduino" and bridge IN and OUT.
+if you want to power the unit via 5V USB, please remove stepdown "Arduino" and bridge IN and OUT.
 #### connect 2 or more PCBS
-If you plan to connect more PCBS together, please alsways set the Loopback Jumper to the first PCB (left)
-Then connect the next PCB via 6Pin wire. 
-On the first PCB, bridge MV. On following PCBs please bridge GM
+If you plan to connect more PCBS together, please alsways set the Loopback Jumper to the first PCB
+Then connect the next PCB via 6Pin wire. On the first PCB, bridge MV. On following PCBs please bridge GM. WiFi Module always connects to the last PCB.
 <img src="https://raw.githubusercontent.com/ps915/Chorus-RF-Laptimer-PCB/master/p5.jpg">
 
 # What do you need (4 nodes)
