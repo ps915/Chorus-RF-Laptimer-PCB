@@ -7,8 +7,10 @@ https://github.com/voroshkov/Chorus-RF-Laptimer
 
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/Chorus-RF-Laptimer-PCB/releases) 
-### 22.05.2018 - v3.1 released [DOWNLOAD](https://github.com/ps915/Chorus-RF-Laptimer-PCB/files/2025616/chorus_4in1_3.1_gerber_file.zip)
+### 22.05.2018 - v3.1 beta released [DOWNLOAD](https://github.com/ps915/Chorus-RF-Laptimer-PCB/files/2025616/chorus_4in1_3.1_gerber_file.zip)
 * inital release
+* i did not tested this PCB. To V3.0 i just added the Diodes and did cleaned it up a bit. V3.0 worked so far. Please report any issues!
+
 # What do you need
 
 * 1x 4in1 PCB
