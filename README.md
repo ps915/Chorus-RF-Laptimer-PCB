@@ -1,9 +1,12 @@
 # Chorus-RF-Laptimer-PCB
-
 4in1 PCB for the Chorus RF Laptimer by Andrey Voroshkov
 https://github.com/voroshkov/Chorus-RF-Laptimer
 
 <img src="https://raw.githubusercontent.com/ps915/Chorus-RF-Laptimer-PCB/master/p3.JPG" width="350"> <img src="https://raw.githubusercontent.com/ps915/Chorus-RF-Laptimer-PCB/master/p1.JPG" width="350">
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/avLRJ5z0UP4/0.jpg)](https://www.youtube.com/watch?v=avLRJ5z0UP4)
+
+https://www.youtube.com/watch?v=avLRJ5z0UP4
 
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/Chorus-RF-Laptimer-PCB/releases) 
@@ -12,7 +15,6 @@ https://github.com/voroshkov/Chorus-RF-Laptimer
 * i did not tested this PCB. To V3.0 i just added the Diodes and did cleaned it up a bit. V3.0 worked so far. Please report any issues!
 
 # What do you need
-
 * 1x 4in1 PCB
 * 4x [Arduino Pro Mini](https://www.banggood.com/Wholesale-New-Ver-Pro-Mini-ATMEGA328-328p-5V-16MHz-Arduino-Compatible-Nano-Size-p-68534.html?p=3R26141006882201412N)
 * 4x [RX5808 (with SPI mod)](https://www.banggood.com/FPV-5_8G-Wireless-Audio-Video-Receiving-Module-RX5808-p-84775.html?p=3R26141006882201412N)
