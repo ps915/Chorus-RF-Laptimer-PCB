@@ -26,14 +26,17 @@ https://www.youtube.com/watch?v=avLRJ5z0UP4
 * i did not tested this PCB. To V3.0 i just added the Diodes and did cleaned it up a bit. V3.0 worked so far. Please report any issues!
 
 # Important
-#### up to 4 nodes
-You can also just use one or two nodes. All you haveto do is bridge TX/RX (see on silkscreen) of the other nodes
-Always use at least "Node1" because the voltage measurement is connected to this node.
-#### 5V power via USB
-if you want to power the unit via 5V USB, please remove stepdown "Arduino" and bridge IN and OUT.
-#### connect 2 or more PCBS
-If you plan to connect more PCBS together, please always set the Loopback Jumper to the first PCB
-Then connect the next PCB via 6Pin wire. On the first PCB, bridge MV. On following PCBs please bridge GM. WiFi Module always connects to the last PCB.
+#### Less than 4 nodes?
+You can use less than 4 nodes. All you have to do, is to bridge TX/RX (see silkscreen) of the unused nodes. Always use at least "Node1" because the voltage measurement is connected to this node.
+#### 5 V power via USB
+If you want to power the unit via 5 V USB, please remove stepdown marked as "Arduino" and bridge IN and OUT of it to pass the power from the USB to the Arduios.
+#### How to track 8 pilots and more
+If you plan to track more than 4 pilots at the same time, connect just connect two or more PCBs together.
+* Please always set the Loopback Jumper to the first PCB.
+* Connect the next PCB via 6Pin JST cable
+* On the first PCB, bridge MV
+* On following PCBs please bridge GM
+* WiFi/Bluetooth Module always connects to the last PCB. 
 <img src="https://raw.githubusercontent.com/ps915/Chorus-RF-Laptimer-PCB/master/p5.jpg">
 
 # What do you need (4 nodes)
