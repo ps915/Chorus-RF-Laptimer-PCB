@@ -79,7 +79,7 @@ you can order the PCB from china:
 * Base Material: FR-4
 * No. of Layers: 2
 * PCB Dimensions: 100mm x 100mm
-* PCB Quantity: 10
+* PCB Quantity: 10 (you will get 10 identical PCBs - thats the minimum quantity)
 * No. of Different Designs: 1
 * PCB Thickness: 1.6mm
 * PCB Color: Red
