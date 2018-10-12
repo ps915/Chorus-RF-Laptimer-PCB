@@ -92,7 +92,6 @@ you can order the PCB from china:
 * Plated Half-holes / Castellated Holes: No
 * Impedance Control: No
 3. add to cart
-4. order
-
-Detaild Tutorial how to order from seeedstudio [here](https://blog.seidel-philipp.de/do-it-yourself-pagoda-fpv-antenna-for-less-than-2/)
+4. pay the order! Done!
+5. share unused PCBs with the community! =)
 
