@@ -71,10 +71,10 @@ https://github.com/voroshkov/Chorus-RF-Laptimer
 * english https://blog.seidel-philipp.de/chorus-rf-laptimer-4in1-pcb-english/
 * deutsch https://blog.seidel-philipp.de/chorus-rf-laptimer-4in1-pcb/
 
-# Ordering PCB
-you can order the PCB in china:
-1. Go to [www.seeedstudio.com](https://www.seeedstudio.com/fusion_pcb.html#utm_source=seidel-philipp.de&utm_medium=banner)
-2. Upload gerber file
+# Ordering the PCB
+you can order the PCB from china:
+1. Go to FUSION PCB [www.seeedstudio.com](https://www.seeedstudio.com/fusion_pcb.html#utm_source=seidel-philipp.de&utm_medium=banner)
+2. Upload gerber file (chorus_4in1_3.1_gerber_file.zip)
 3. verify order settings
 * Base Material: FR-4
 * No. of Layers: 2
