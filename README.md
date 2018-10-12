@@ -67,6 +67,10 @@ If you plan to track more than 4 pilots at the same time, connect just connect t
 # Software
 https://github.com/voroshkov/Chorus-RF-Laptimer
 
+# Blog post about the project
+* english https://blog.seidel-philipp.de/chorus-rf-laptimer-4in1-pcb-english/
+* deutsch https://blog.seidel-philipp.de/chorus-rf-laptimer-4in1-pcb/
+
 # Ordering PCB
 you can order the PCB in china:
 1. Go to [www.seeedstudio.com](https://www.seeedstudio.com/fusion_pcb.html#utm_source=seidel-philipp.de&utm_medium=banner)
