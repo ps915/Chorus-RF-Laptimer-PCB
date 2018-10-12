@@ -75,7 +75,22 @@ https://github.com/voroshkov/Chorus-RF-Laptimer
 you can order the PCB in china:
 1. Go to [www.seeedstudio.com](https://www.seeedstudio.com/fusion_pcb.html#utm_source=seidel-philipp.de&utm_medium=banner)
 2. Upload gerber file
-3. choose PCB color
+3. verify order settings
+* Base Material: FR-4
+* No. of Layers: 2
+* PCB Dimensions: 100mm x 100mm
+* PCB Quantity: 10
+* No. of Different Designs: 1
+* PCB Thickness: 1.6mm
+* PCB Color: Red
+* Surface Finish: HASL
+* Minimum Solder Mask Dam: 0.4mm
+* Copper Weight: 1oz
+* Minimum Drill Hole Size: 0.3mm
+* Trace Width / Spacing: 6/6 mil
+* Blind or Buried Vias: No
+* Plated Half-holes / Castellated Holes: No
+* Impedance Control: No
 3. add to cart
 4. order
 
